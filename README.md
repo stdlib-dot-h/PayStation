@@ -6,5 +6,6 @@
 ### An extension that converts
 
 ### PlayStation -> PayStation
+### Play Has No Limits -> Pay Has No Limits
 
 ### based on microslop codebase, thanks!
