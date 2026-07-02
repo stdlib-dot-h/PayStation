@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="PayStation logo" src="public/icon/icon.svg" />
+    <img alt="PayStation logo" src="public/paystation.svg" />
     <h1>PayStation</h1>
 </div>
 
