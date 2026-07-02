@@ -1,6 +1,6 @@
 import { AppSettings, settingsStorage } from "@/storage";
 import Replacer from "./Replacer";
-import logo from "/icon/128.png";
+import logo from "/paystation.svg";
 
 const App = () => {
     const [settings, setSettings] = createSignal<AppSettings | null>(null);
@@ -19,7 +19,7 @@ const App = () => {
             <div class="flex items-center gap-1.5">
                 <img src={logo} class="size-10" />
                 <h1 class="font-semibold text-3xl tracking-tight text-[#737373]">
-                    Microslop
+                    PayStation
                 </h1>
             </div>
 
